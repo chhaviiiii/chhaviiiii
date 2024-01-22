@@ -27,13 +27,13 @@
 
 ###
 
-<h3 align="left"> 🏫 About Me </h3>
+<h2 align="left"> 🏫 About Me </h2>
 
 ###
 
 <p align="left">I am Chhavi Nayyar! I'm currently studying at the University of British Columbia, pursuing a Bachelor of Science. My academic journey is centered around exploring the intriguing fields of Data Science and Machine Learning Algorithms.<br>
 
- <h3 align="left"> 👩‍💻 Professional Snapshot </h3> 
+ <h2 align="left"> 👩‍💻 Professional Snapshot </h2> 
  
 - Marketing Analyst Intern at TechyWeb Solutions: 
  
@@ -47,19 +47,19 @@ Engaged in STEM activities, emphasizing data-driven concepts and fostering probl
 
 Managed financial data with precision, ensuring data integrity and accuracy.
 
-<h3 align="left"> 📚  Academic Involvements </h3>
+<h2 align="left"> 📚  Academic Involvements </h2>
 
 - Active member of the Women in Data Science Club and Women in Computer Science Club at UBC.
 
 - Committed to fostering gender diversity in technology through participation in coding boot camps and networking events.
 
-  <h3 align="left"> 🔍 Interests </h3>
+  <h2 align="left"> 🔍 Interests </h2>
 
 Beyond the world of numbers and codes, I find solace in reading books, indulging in the art of gardening, and embracing the joy of collecting followers. My knack for organizing not only reflects in my surroundings but also in the meticulous way I approach problem-solving and project management </p>
 
 ###
 
-<h3 align="left"> 🛠 Skills </h3>
+<h2 align="left"> 🛠 Skills </h2>
 
 - Proficiency in Python, Java, and various data analysis tools.
 - Effective communication, translating complex technical findings into understandable insights.
@@ -67,29 +67,9 @@ Beyond the world of numbers and codes, I find solace in reading books, indulging
 - Strong critical thinking, proficient in data trend analysis and making data-driven recommendations.
 
 
-<h3 align="left"> 🌱 Looking Forward </h3>
+<h2 align="left"> 🌱 Looking Forward </h2>
 
 I'm on a constant quest to enhance my knowledge and skills in data science and statistics. I am open to collaborations, learning opportunities, and engaging discussions that can fuel my passion and contribute to the tech community.
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
 
 
 ###
