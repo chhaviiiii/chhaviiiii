@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I am Chhavi Nayyar! I'm currently studying at the University of British Columbia, pursuing a Bachelor of Science. My academic journey is centered around exploring the intriguing fields of Data Science and Machine Learning Algorithms.<br>
+<p align="left">I am Chhavi Nayyar! I'm currently studying at the University of British Columbia, pursuing a Bachelor of Science. My academic journey is centered around exploring the intriguing fields of technology
 
  <h2 align="left"> 👩‍💻 Professional Snapshot </h2> 
  
