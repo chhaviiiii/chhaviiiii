@@ -16,10 +16,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=chhaviiiii&theme=transparent&border_radius=80&card_width=500&hide_longest_streak=true)](https://git.io/streak-stats"  />
-</div>
-
 ###
 
 
