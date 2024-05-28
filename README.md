@@ -31,6 +31,10 @@
 
  <h2 align="left"> 👩‍💻 Professional Snapshot </h2> 
  
+ - Business and Product Development Manager at Nayyar Innovations:
+
+Developed and executed business development strategies, conducted market analysis, implemented sales strategies, engaged in networking activities, and produced performance reports for strategic planning.
+
 - Marketing Analyst Intern at TechyWeb Solutions: 
  
 Delved into data-driven marketing analysis, contributing to the formulation of strategies and decision-making processes.
@@ -38,10 +42,6 @@ Delved into data-driven marketing analysis, contributing to the formulation of s
 - Junior Instructor at UBC Geering Up: 
 
 Engaged in STEM activities, emphasizing data-driven concepts and fostering problem-solving skills.
-
-- Accountant’s Assistant Co-Op at Didden Income Tax and Accounting:
-
-Managed financial data with precision, ensuring data integrity and accuracy.
 
 <h2 align="left"> 📚  Academic Involvements </h2>
 
