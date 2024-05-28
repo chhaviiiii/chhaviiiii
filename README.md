@@ -49,7 +49,7 @@ Engaged in STEM activities, emphasizing data-driven concepts and fostering probl
 
 - Committed to fostering gender diversity in technology through participation in coding boot camps and networking events.
 
-  <h2 align="left"> 🔍 Interests </h2>
+<h2 align="left"> 🔍 Interests </h2>
 
 Beyond the world of numbers and codes, I find solace in reading books, indulging in the art of gardening, and embracing the joy of collecting followers. My knack for organizing not only reflects in my surroundings but also in the meticulous way I approach problem-solving and project management </p>
 
