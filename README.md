@@ -6,10 +6,12 @@
 <div align="center">
   <img src="https://github.com/chhaviiiii/chhaviiiii/blob/60dfbe7568dfd754ae3ab289063f5719b480a806/assets/peach-goma.gif" alt="Peach Goma Banner" width="200" />
 </div>
+<p></p>
 
+</p>
 <p align="left" style="margin-bottom: 5px; padding-bottom: 0px;"> 
   <strong>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Code&pause=100&color=89cff0&width=750&lines=Hi,+I'm+Chhavi+Nayyar+!+👩‍💻;+UX/UI+Designer+|+Graphic+Designer+|+Creative+Coder" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Code&pause=100&color=89cff0&width=750&lines=Hi,+I'm+Chhavi+Nayyar+!;+UX/UI+Designer+|+Graphic+Designer+|+Creative+Coder" />
   </strong>
 </p>
 
