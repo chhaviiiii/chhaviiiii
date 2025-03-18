@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <p align="center" style="margin-bottom: 20px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6a0dad,100:1e3c72&reversal=false"/>
 </p>
 
 <div align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center" style="margin-top: -10px;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a0dad,100:1e3c72&height=1"/>
 </p>
 
 <!-- SOCIAL LINKS -->
@@ -31,14 +31,13 @@
 </p>
 
 <p align="center" style="margin-top: -10px;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a0dad,100:1e3c72&height=1"/>
 </p>
 
 <!-- ABOUT ME -->
 <p align="left" style="font-size: 24px;">
   <strong>🌟 About Me</strong>
 </p>
-
 
 I’m a **UX/UI Designer** with a background in **cognitive systems and user experience research**.  
 Currently pursuing my **Bachelor of Science at the University of British Columbia**, I specialize in **interaction design, usability testing, and accessibility-focused UI solutions**.  
@@ -53,7 +52,7 @@ Currently pursuing my **Bachelor of Science at the University of British Columbi
 - **💻 UX Designer** @ Nayyar Innovations (*leading UX for web and mobile interfaces*)  
 
 <p align="center" style="margin-top: -10px;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a0dad,100:1e3c72&height=1"/>
 </p>
 
 <!-- PROFESSIONAL SNAPSHOT -->
@@ -86,7 +85,7 @@ Currently pursuing my **Bachelor of Science at the University of British Columbi
 </ul>
 
 <p align="center" style="margin-top: -10px;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a0dad,100:1e3c72&height=1"/>
 </p>
 
 <!-- SKILLS & TOOLS -->
@@ -103,7 +102,7 @@ Currently pursuing my **Bachelor of Science at the University of British Columbi
 
 
 <p align="center" style="margin-top: -10px;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a0dad,100:1e3c72&height=1"/>
 </p>
 
 <!-- CONNECT WITH ME -->
@@ -114,7 +113,6 @@ Currently pursuing my **Bachelor of Science at the University of British Columbi
 📩 **Email:** [chhav09nayyar@gmail.com](mailto:chhav09nayyar@gmail.com)  
 🌐 **Portfolio:** [cnayyar.com](http://cnayyar.com)  
 
-
 <p align="center" style="margin-bottom: 20px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:1e3c72&height=90&section=footer"/>
 </p>
