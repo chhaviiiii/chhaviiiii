@@ -7,13 +7,11 @@
   <img src="https://github.com/chhaviiiii/chhaviiiii/blob/60dfbe7568dfd754ae3ab289063f5719b480a806/assets/peach-goma.gif" alt="Peach Goma Banner" width="200" />
 </div>
 
-<p align="left" style="margin-bottom: 5px; padding-bottom: 0px;"> 
+<p align="left" style="margin-bottom: 5px; padding-bottom: 0px; font-size: 500px"> 
   <strong>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Code&pause=100&color=89cff0&width=750&lines=Hi,+I'm+Chhavi+Nayyar!;+UX/UI+Designer+|+Graphic+Designer+|+Creative+Coder" 
-         style="font-size: 30px; width: 100%; max-width: 750px;"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Code&pause=100&color=89cff0&width=750&lines=Hi,+I'm+Chhavi+Nayyar!;+UX/UI+Designer+|+Graphic+Designer+|+Creative+Coder&font_size=700" />
   </strong>
 </p>
-
 
 <p align="center" style="margin-top: -10px;">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a0dad,100:1e3c72&height=1"/>
