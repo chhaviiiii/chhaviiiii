@@ -9,9 +9,9 @@
 <p></p>
 
 </p>
-<p align="left" style="margin-bottom: 5px; padding-bottom: 0px; font-size: 500px"> 
+<p align="left" style="margin-bottom: 5px; padding-bottom: 0px;"> 
   <strong>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Code&pause=100&color=89cff0&width=750&lines=Hi,+I'm+Chhavi+Nayyar!;+UX/UI+Designer+|+Graphic+Designer+|+Creative+Coder&font_size=1000" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Code&pause=100&color=89cff0&width=750&lines=Hi,+I'm+Chhavi+Nayyar+!;+UX/UI+Designer+|+Graphic+Designer+|+Creative+Coder" style="font-size: 100vw;" />
   </strong>
 </p>
 
