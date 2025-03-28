@@ -9,7 +9,7 @@
 
 <p align="left" style="margin-bottom: 5px; padding-bottom: 0px; font-size: 500px"> 
   <strong>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Code&pause=100&color=89cff0&width=750&lines=Hi,+I'm+Chhavi+Nayyar!;+UX/UI+Designer+|+Graphic+Designer+|+Creative+Coder&font_size=700" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Code&pause=100&color=89cff0&width=750&lines=Hi,+I'm+Chhavi+Nayyar!;+Frontend+Developer+|+UX/UI+Designer+|+Graphic+Designer" />
   </strong>
 </p>
 
@@ -35,83 +35,73 @@
 </p>
 
 <!-- ABOUT ME -->
-<p align="left" style="font-size: 24px;">
+<h2 align="left" style="font-size: 24px;">
   <strong>🌟 About Me</strong>
-</p>
+</h2>
 
-I’m a **UX/UI Designer** with a background in **cognitive systems and user experience research**.  
-Currently pursuing my **Bachelor of Science at the University of British Columbia**, I specialize in **interaction design, usability testing, and accessibility-focused UI solutions**.  
+I'm a **Frontend Developer** with a background in **UX/UI design and cognitive systems**. I’m currently pursuing my **BSc at the University of British Columbia**, focusing on the intersection of design, usability, and development. I love building clean, accessible, and responsive interfaces that are backed by thoughtful design and research.
 
-✨ **Passionate About:**  
-- Creating **intuitive & accessible** digital experiences 🎨  
-- Using **data-driven** design to improve usability 📊  
-- Exploring the intersection of **AI & UX** 🤖  
+✨ **Interests:**  
+- Designing **intuitive & accessible** digital experiences  
+- Blending **visual storytelling** with functionality  
+- Exploring how **AI and design** work together
 
 💼 **Current Roles:**  
-- **🎓 Design Assistant** @ UBC Extended Learning (*building interactive UI components for e-learning*)  
-- **💻 UX Designer** @ Nayyar Innovations (*leading UX for web and mobile interfaces*)  
+- **Design Assistant** @ UBC Extended Learning (*building interactive UI components for e-learning*)  
+- **UX Designer** @ Nayyar Innovations (*leading UX for web and mobile interfaces*)
 
 <p align="center" style="margin-top: -10px;">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a0dad,100:1e3c72&height=1"/>
 </p>
 
-<!-- PROFESSIONAL SNAPSHOT -->
-<p align="left" style="font-size: 24px;">
-  <strong>💼 Professional Snapshot</strong>
-</p>
+<!-- FEATURED PROJECTS -->
+<h2 align="left" style="font-size: 24px;">
+  <strong>🚀 Featured Projects</strong>
+</h2>
 
 <ul>
-  <li><strong>🎨 UX Designer @ Nayyar Innovations</strong>
-    <ul>
-      <li>Designed & optimized UI/UX for <strong>web & mobile applications</strong> 📱.</li>
-      <li>Conducted <strong>user research, wireframing, & usability testing** 🔍.</li>
-      <li>Created <strong>interactive prototypes</strong> using <strong>Figma & Framer</strong> 🖌.</li>
-    </ul>
+  <li><strong><a href="https://github.com/chhaviiiii/Finance-Manager">💸 Finance Manager</a></strong> – A desktop app for managing personal finances using Java + JSON.
   </li>
-  
-  <li><strong>📚 Design Assistant @ UBC Extended Learning</strong>
-    <ul>
-      <li>Developed<strong>e-learning UI components** & optimized **course layouts</strong> 🏫.</li>
-      <li>Focused on <strong>WCAG accessibility** & **usability enhancements</strong> ♿.</li>
-    </ul>
+  <li><strong><a href="https://github.com/chhaviiiii/Virtual-Reality-Experience-Recommendation-System">🧠 VR Recommendation System</a></strong> – ML-based recommendation engine for VR experiences using Python & TensorFlow.
   </li>
-  
-  <li><strong>👩‍💻 UX Designer Intern @ TechyWeb Solutions</strong>
-    <ul>
-      <li>Assisted in  <strong>high-fidelity prototyping & front-end optimizations</strong> 🔧.</li>
-      <li>Designed & refined <strong>interactive UI elements for SaaS applications</strong> 🌐.</li>
-    </ul>
+  <li><strong><a href="https://starcrew.com">✨ StarCrew</a></strong> – UX research and design for a fully responsive portfolio website built in Framer.
+  </li>
+  <li><strong><a href="https://vynix.nayyarinnovations.com">📊 Vynix</a></strong> – React-based analytics site using AI, heatmaps, and ML models.
+  </li>
+  <li><strong><a href="https://www.webability.io">♿ Webability</a></strong> – Custom-built accessibility widget for websites (ADA + WCAG compliant).
+  </li>
+  <li><strong><a href="https://growthautomator.ca">📈 GrowthAutomator.ca</a></strong> – Frontend development and SEO optimization for marketing automation.
+  </li>
+  <li><strong><a href="https://yoursearchbox.com">🔍 Your Search Box</a></strong> – AI-powered search widget with voice and visual search (in progress).
   </li>
 </ul>
 
-<p align="center" style="margin-top: -10px;">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a0dad,100:1e3c72&height=1"/>
 </p>
 
 <!-- SKILLS & TOOLS -->
-<p align="left" style="font-size: 24px;">
+<h2 align="left" style="font-size: 24px;">
   <strong>🛠 Skills & Tools</strong>
-</p>
+</h2>
 
-**🖌 UX/UI Design:** Figma | Adobe XD | Sketch | InVision | Framer  
-**💻 Frontend Development:** HTML5 | CSS | JavaScript | React.js  
-**📊 Research & Testing:** A/B Testing | Heatmaps | User Interviews  
-**🎨 Graphic Design & Branding:** Illustrations | Motion Graphics | Digital Design  
-**🚀 Project Management:** Jira | Confluence | Agile  
-
-
+**UX/UI Design:** Figma | Adobe XD | Sketch | InVision | Framer  
+**Frontend Development:** HTML5 | CSS | JavaScript | React.js | Node.js | Next.js | Webflow | Wix Studio | WordPress  
+**Data & Research:** Python | Jupyter Notebook | TensorFlow | A/B Testing | Heatmaps | User Interviews  
+**Graphic Design:** Illustrations | Motion Graphics | Branding  
+**Project Management:** Jira | Confluence | Agile  
 
 <p align="center" style="margin-top: -10px;">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a0dad,100:1e3c72&height=1"/>
 </p>
 
 <!-- CONNECT WITH ME -->
-<p align="left" style="font-size: 24px;">
+<h2 align="left" style="font-size: 24px;">
   <strong>📌 Let’s Connect!</strong>
-</p>
+</h2>
 
 📩 **Email:** [chhav09nayyar@gmail.com](mailto:chhav09nayyar@gmail.com)  
 🌐 **Portfolio:** [cnayyar.com](http://cnayyar.com)  
+🐙 **GitHub:** [github.com/chhaviiiii](https://github.com/chhaviiiii)
 
 <p align="center" style="margin-bottom: 20px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:1e3c72&height=90&section=footer"/>
