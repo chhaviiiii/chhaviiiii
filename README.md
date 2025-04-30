@@ -47,8 +47,9 @@ I'm a **Frontend Developer** with a background in **UX/UI design and cognitive s
 - Exploring how **AI and design** work together
 
 💼 **Current Roles:**  
+- **Program Assistant** @ UBC (*ensuring smooth program execution and efficient operations*)
 - **Design Assistant** @ UBC Extended Learning (*building interactive UI components for e-learning*)  
-- **UX Designer** @ Nayyar Innovations (*leading UX for web and mobile interfaces*)
+- **Design Director** @ UBC UX Hub (*leading UX for web and mobile interfaces*)
 
 <p align="center" style="margin-top: -10px;">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a0dad,100:1e3c72&height=1"/>
