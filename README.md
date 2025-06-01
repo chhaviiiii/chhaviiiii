@@ -9,7 +9,7 @@
 
 <p align="left" style="margin-bottom: 5px; padding-bottom: 0px; font-size: 500px"> 
   <strong>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Code&pause=100&color=89cff0&width=750&lines=Hi,+I'm+Chhavi+Nayyar!;+Frontend+Developer+|+UX/UI+Designer+|+Graphic+Designer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Code&pause=100&color=89cff0&width=750&lines=Hi,+I'm+Chhavi+Nayyar!;+Fullstack+Developer+|+UX/UI+Designer+|+ML+Engineer" />
   </strong>
 </p>
 
@@ -39,7 +39,7 @@
   <strong>🌟 About Me</strong>
 </h2>
 
-I'm a **Frontend Developer** with a background in **UX/UI design and cognitive systems**. I’m currently pursuing my **BSc at the University of British Columbia**, focusing on the intersection of design, usability, and development. I love building clean, accessible, and responsive interfaces that are backed by thoughtful design and research.
+I'm a **Fullstack Developer** with a background in **UX/UI design and cognitive systems**. I’m currently pursuing my **BSc at the University of British Columbia**, focusing on the intersection of design, usability, and development. I love building clean, accessible, and responsive interfaces that are backed by thoughtful design and research.
 
 ✨ **Interests:**  
 - Designing **intuitive & accessible** digital experiences  
