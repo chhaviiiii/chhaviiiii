@@ -67,8 +67,6 @@ I'm a **Fullstack Developer** with a background in **UX/UI design and cognitive 
   </li>
   <li><strong><a href="https://starcrew.com">✨ StarCrew</a></strong> – UX research and design for a fully responsive portfolio website built in Framer.
   </li>
-  <li><strong><a href="https://vynix.nayyarinnovations.com">📊 Vynix</a></strong> – React-based analytics site using AI, heatmaps, and ML models.
-  </li>
   <li><strong><a href="https://www.webability.io">♿ Webability</a></strong> – Custom-built accessibility widget for websites (ADA + WCAG compliant).
   </li>
   <li><strong><a href="https://growthautomator.ca">📈 GrowthAutomator.ca</a></strong> – Frontend development and SEO optimization for marketing automation.
