@@ -48,7 +48,7 @@ I'm a **Fullstack Developer** with a background in **UX/UI design and cognitive 
 
 💼 **Current Roles:**  
 - **Program Assistant** @ UBC (*ensuring smooth program execution and efficient operations*)
-- **Design Assistant** @ UBC Extended Learning (*building interactive UI components for e-learning*)  
+- **ML Engineer** @ UBC Computer Science (*working on Human Computer Interaction and deep learning models*)  
 - **Design Director** @ UBC UX Hub (*leading UX for web and mobile interfaces*)
 
 <p align="center" style="margin-top: -10px;">
