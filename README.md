@@ -47,6 +47,7 @@ I'm a **Fullstack Developer** with a background in **UX/UI design and cognitive 
 - Exploring how **AI and design** work together
 
 💼 **Current Roles:**  
+- **Web Designer** @ Michael Smith Labratories (*leading the development of the BCPM program website*)
 - **Program Assistant** @ UBC (*ensuring smooth program execution and efficient operations*)
 - **ML Engineer** @ BC Cancer (*working on concept mapping and unsupervised machine learning for AI deployment in cancer research*)  
 - **ML Engineer** @ UBC Computer Science (*working on Human Computer Interaction and deep learning models*)  
