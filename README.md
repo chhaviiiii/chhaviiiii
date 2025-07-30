@@ -48,6 +48,7 @@ I'm a **Fullstack Developer** with a background in **UX/UI design and cognitive 
 
 💼 **Current Roles:**  
 - **Program Assistant** @ UBC (*ensuring smooth program execution and efficient operations*)
+- **ML Engineer** @ BC Cancer (*working on concept mapping and unsupervised machine learning for AI deployment in cancer research*)  
 - **ML Engineer** @ UBC Computer Science (*working on Human Computer Interaction and deep learning models*)  
 - **Design Director** @ UBC UX Hub (*leading UX for web and mobile interfaces*)
 
@@ -98,7 +99,7 @@ I'm a **Fullstack Developer** with a background in **UX/UI design and cognitive 
   <strong>📌 Let’s Connect!</strong>
 </h2>
 
-📩 **Email:** [chhav09nayyar@gmail.com](mailto:chhav09nayyar@gmail.com)  
+📩 **Email:** [chhavi09nayyar@gmail.com](mailto:chhav09nayyar@gmail.com)  
 🌐 **Portfolio:** [cnayyar.com](http://cnayyar.com)  
 🐙 **GitHub:** [github.com/chhaviiiii](https://github.com/chhaviiiii)
 
