@@ -9,7 +9,7 @@
 
 <p align="left" style="margin-bottom: 5px; padding-bottom: 0px; font-size: 500px"> 
   <strong>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Code&pause=100&color=89cff0&width=750&lines=Hi,+I'm+Chhavi+Nayyar!;+Fullstack+Developer+|+ML+Engineer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Code&pause=100&color=89cff0&width=750&lines=Hi,+I'm+Chhavi+Nayyar!;+Fullstack+Developer+|+ML+Engineer+|+UX+/+UI+Designer" />
   </strong>
 </p>
 
