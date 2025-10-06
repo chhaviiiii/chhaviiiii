@@ -9,7 +9,7 @@
 
 <p align="left" style="margin-bottom: 5px; padding-bottom: 0px; font-size: 500px"> 
   <strong>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Code&pause=100&color=89cff0&width=750&lines=Hi,+I'm+Chhavi+Nayyar!;+Fullstack+Developer+|+UX/UI+Designer+|+ML+Engineer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Code&pause=100&color=89cff0&width=750&lines=Hi,+I'm+Chhavi+Nayyar!;+Fullstack+Developer+|+ML+Engineer" />
   </strong>
 </p>
 
@@ -39,19 +39,17 @@
   <strong>🌟 About Me</strong>
 </h2>
 
-I'm a **Fullstack Developer** with a background in **UX/UI design and cognitive systems**. I’m currently pursuing my **BSc at the University of British Columbia**, focusing on the intersection of design, usability, and development. I love building clean, accessible, and responsive interfaces that are backed by thoughtful design and research.
+I'm a **Fullstack Developer** with a background in **Computer Science and Cognitive Systems**. I’m currently pursuing my **BSc at the University of British Columbia**, focusing on the intersection of software development, AI, and human-centered design. I love building clean, accessible, and responsive interfaces backed by thoughtful design and research.
 
 ✨ **Interests:**  
-- Designing **intuitive & accessible** digital experiences  
-- Blending **visual storytelling** with functionality  
-- Exploring how **AI and design** work together
+- Developing **intuitive & accessible** digital experiences  
+- Exploring how **AI and machine learning** can solve real-world problems  
+- Blending **functional design** with advanced technologies
 
 💼 **Current Roles:**  
-- **Web Designer** @ Michael Smith Labratories (*leading the development of the BCPM program website*)
-- **Program Assistant** @ UBC (*ensuring smooth program execution and efficient operations*)
-- **ML Engineer** @ BC Cancer (*working on concept mapping and unsupervised machine learning for AI deployment in cancer research*)  
-- **ML Engineer** @ UBC Computer Science (*working on Human Computer Interaction and deep learning models*)  
-- **Design Director** @ UBC UX Hub (*leading UX for web and mobile interfaces*)
+- **Machine Learning Engineer** @ BC Cancer (*working on concept mapping and unsupervised machine learning for AI deployment in cancer research*)  
+- **Machine Learning Engineer** @ UBC Computer Science (*working on Human-Computer Interaction and deep learning models*)  
+- **Automation Engineer** @ UBC Extended Learning  
 
 <p align="center" style="margin-top: -10px;">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a0dad,100:1e3c72&height=1"/>
@@ -63,18 +61,12 @@ I'm a **Fullstack Developer** with a background in **UX/UI design and cognitive 
 </h2>
 
 <ul>
-  <li><strong><a href="https://github.com/chhaviiiii/Finance-Manager">💸 Finance Manager</a></strong> – A desktop app for managing personal finances using Java + JSON.
-  </li>
-  <li><strong><a href="https://github.com/chhaviiiii/Virtual-Reality-Experience-Recommendation-System">🧠 VR Recommendation System</a></strong> – ML-based recommendation engine for VR experiences using Python & TensorFlow.
-  </li>
-  <li><strong><a href="https://starcrew.com">✨ StarCrew</a></strong> – UX research and design for a fully responsive portfolio website built in Framer.
-  </li>
-  <li><strong><a href="https://www.webability.io">♿ Webability</a></strong> – Custom-built accessibility widget for websites (ADA + WCAG compliant).
-  </li>
-  <li><strong><a href="https://growthautomator.ca">📈 GrowthAutomator.ca</a></strong> – Frontend development and SEO optimization for marketing automation.
-  </li>
-  <li><strong><a href="https://yoursearchbox.com">🔍 Your Search Box</a></strong> – AI-powered search widget with voice and visual search (in progress).
-  </li>
+  <li><strong><a href="https://github.com/chhaviiiii/Finance-Manager">💸 Finance Manager</a></strong> – A desktop app for managing personal finances using Java + JSON.</li>
+  <li><strong><a href="https://github.com/chhaviiiii/Virtual-Reality-Experience-Recommendation-System">🧠 VR Recommendation System</a></strong> – ML-based recommendation engine for VR experiences using Python & TensorFlow.</li>
+  <li><strong><a href="https://starcrew.com">✨ StarCrew</a></strong> – UX research and design for a fully responsive portfolio website built in Framer.</li>
+  <li><strong><a href="https://www.webability.io">♿ Webability</a></strong> – Custom-built accessibility widget for websites (ADA + WCAG compliant).</li>
+  <li><strong><a href="https://growthautomator.ca">📈 GrowthAutomator.ca</a></strong> – Frontend development and SEO optimization for marketing automation.</li>
+  <li><strong><a href="https://yoursearchbox.com">🔍 Your Search Box</a></strong> – AI-powered search widget with voice and visual search (in progress).</li>
 </ul>
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a0dad,100:1e3c72&height=1"/>
@@ -85,11 +77,14 @@ I'm a **Fullstack Developer** with a background in **UX/UI design and cognitive 
   <strong>🛠 Skills & Tools</strong>
 </h2>
 
-**UX/UI Design:** Figma | Adobe XD | Sketch | InVision | Framer  
-**Frontend Development:** HTML5 | CSS | JavaScript | React.js | Node.js | Next.js | Webflow | Wix Studio | WordPress  
-**Data & Research:** Python | Jupyter Notebook | TensorFlow | A/B Testing | Heatmaps | User Interviews  
-**Graphic Design:** Illustrations | Motion Graphics | Branding  
-**Project Management:** Jira | Confluence | Agile  
+**Languages:** Java | C++ | Python | SQL | JavaScript | TypeScript | React | Node.js | Swift | HTML | CSS  
+**Backend Development:** REST APIs | Express | Flask | FastAPI | Object-Oriented Design | CI/CD (GitHub Actions)  
+**Machine Learning & AI:** TensorFlow | PyTorch | Scikit-learn | Neural Networks | Unsupervised Learning | Natural Language Processing (NLP)  
+**Data Science & Research:** Data Analysis | Statistical Modeling | Pandas | NumPy | Jupyter Notebook | Data Visualization (Matplotlib, Plotly)  
+**Design & Development:** Figma | Adobe XD | Sketch | InVision | A/B Testing | User Research | UX/UI Design | Design Systems | Accessibility Standards  
+**Project Management:** Agile | Scrum | Jira | Confluence  
+**Tools & Technologies:** Docker | Git | AWS (EC2/S3) | Google Cloud | Linux | Slurm | MongoDB | Firebase | SQL (Postgres/MySQL)
+
 
 <p align="center" style="margin-top: -10px;">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a0dad,100:1e3c72&height=1"/>
