@@ -9,7 +9,7 @@
 
 <p align="left" style="margin-bottom: 5px; padding-bottom: 0px; font-size: 500px"> 
   <strong>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Code&pause=100&color=89cff0&width=750&lines=Hi,+I'm+Chhavi+Nayyar!;+Fullstack+Developer+|+ML+Engineer+|+UX+/+UI+Designer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Code&pause=100&color=89cff0&width=750&lines=Hi,+I'm+Chhavi+Nayyar!;+Fullstack+Developer+|+ML+Engineer+|+Researcher" />
   </strong>
 </p>
 
@@ -19,13 +19,13 @@
 
 <!-- SOCIAL LINKS -->
 <p align="center" style="margin-top: -10px;"> 
-  <a href="https://www.linkedin.com/in/chhavi-nayyar-268395205/">
+  <a href="https://www.linkedin.com/in/cnayyar">
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="45"/>
   </a>
   <a href="https://discord.com/users/chhavo.">
     <img src="https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png&color=000000" width="45"/>
   </a>
-  <a href="mailto:chhav09nayyar@gmail.com">
+  <a href="mailto:chhavi09nayyar@gmail.com">
     <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="45"/>
   </a>
 </p>
@@ -39,17 +39,23 @@
   <strong>🌟 About Me</strong>
 </h2>
 
-I'm a **Fullstack Developer** with a background in **Computer Science and Cognitive Systems**. I’m currently pursuing my **BSc at the University of British Columbia**, focusing on the intersection of software development, AI, and human-centered design. I love building clean, accessible, and responsive interfaces backed by thoughtful design and research.
+I'm a **Fullstack Developer** and **Machine Learning Engineer** pursuing my **BSc in Computer Science & Cognitive Systems at the University of British Columbia** (Sept 2022 - Present). I specialize in building accessible, intelligent systems that bridge software engineering, AI, and human-centered design.
 
 ✨ **Interests:**  
-- Developing **intuitive & accessible** digital experiences  
-- Exploring how **AI and machine learning** can solve real-world problems  
-- Blending **functional design** with advanced technologies
+- Building **accessible & intuitive** digital experiences with modern web technologies
+- Applying **machine learning and deep learning** to solve real-world problems in healthcare and research
+- Teaching and mentoring students in **Human-Centered AI** and **Cognitive Systems**
+- Exploring the intersection of **cognitive science, AI, and user experience**
 
 💼 **Current Roles:**  
-- **Machine Learning Engineer** @ BC Cancer (*working on concept mapping and unsupervised machine learning for AI deployment in cancer research*)  
-- **Machine Learning Engineer** @ UBC Computer Science (*working on Human-Computer Interaction and deep learning models*)  
-- **Automation Engineer** @ UBC Extended Learning  
+- **Teaching Assistant** @ UBC Computer Science (*CPSC 532C/554C: Human-Centered AI*)
+- **Teaching Assistant** @ UBC Cognitive Science (*COGS 300/303: Cognitive Systems & Research Methods*)
+- **Automation Engineer** @ UBC Extended Learning (*Python automation, data processing*)
+
+🎓 **Recent Experience:**
+- **Machine Learning Engineer** @ BC Cancer (*unsupervised ML, concept mapping, healthcare AI*)
+- **Deep Learning Engineer** @ UBC Computer Science (*VTNet models, eye-tracking analysis, HPC*)
+- **Full-Stack Web Developer** @ UBC Michael Smith Laboratories (*TypeScript/React, CI/CD*)
 
 <p align="center" style="margin-top: -10px;">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a0dad,100:1e3c72&height=1"/>
@@ -61,14 +67,15 @@ I'm a **Fullstack Developer** with a background in **Computer Science and Cognit
 </h2>
 
 <ul>
-  <li><strong><a href="https://github.com/chhaviiiii/Finance-Manager">💸 Finance Manager</a></strong> – A desktop app for managing personal finances using Java + JSON.</li>
-  <li><strong><a href="https://github.com/chhaviiiii/Virtual-Reality-Experience-Recommendation-System">🧠 VR Recommendation System</a></strong> – ML-based recommendation engine for VR experiences using Python & TensorFlow.</li>
-  <li><strong><a href="https://starcrew.com">✨ StarCrew</a></strong> – UX research and design for a fully responsive portfolio website built in Framer.</li>
-  <li><strong><a href="https://www.webability.io">♿ Webability</a></strong> – Custom-built accessibility widget for websites (ADA + WCAG compliant).</li>
-  <li><strong><a href="https://growthautomator.ca">📈 GrowthAutomator.ca</a></strong> – Frontend development and SEO optimization for marketing automation.</li>
-  <li><strong><a href="https://yoursearchbox.com">🔍 Your Search Box</a></strong> – AI-powered search widget with voice and visual search (in progress).</li>
+  <li><strong><a href="https://yoursearchbox.com">🔍 Your Search Box</a></strong> – Multi-modal AI-powered search platform with voice, image, and text input (TypeScript, Next.js, React).</li>
+  <li><strong><a href="https://github.com/chhaviiiii/Virtual-Reality-Experience-Recommendation-System">🎮 VR Experience Recommendation System</a></strong> – Hybrid ML recommendation engine using TensorFlow, achieving 20-25% improvement in F1 score.</li>
+  <li><strong><a href="https://github.com/chhaviiiii/concept_mapping">🏥 Healthcare Concept Mapping Toolkit</a></strong> – Production-ready toolkit for analyzing healthcare datasets using NetworkX, FastAPI, and Plotly.</li>
+  <li><strong><a href="https://cpp-production-7774.up.railway.app/">📊 CourseInsights</a></strong> – Full-stack survey analysis platform automating CSV-to-PDF report generation (Flask, Pandas).</li>
+  <li><strong><a href="https://www.webability.io">♿ Webability</a></strong> – WCAG/ADA compliant accessibility widget with screen reader support and customizable UI.</li>
+  <li><strong><a href="https://github.com/chhaviiiii/Finance-Manager">💸 Finance Manager</a></strong> – Personal finance management app with budget tracking and data persistence (Java, Swing, JSON).</li>
 </ul>
 
+<p align="center" style="margin-top: -10px;">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a0dad,100:1e3c72&height=1"/>
 </p>
 
@@ -77,14 +84,15 @@ I'm a **Fullstack Developer** with a background in **Computer Science and Cognit
   <strong>🛠 Skills & Tools</strong>
 </h2>
 
-**Languages:** Java | C++ | Python | SQL | JavaScript | TypeScript | React | Node.js | Swift | HTML | CSS  
-**Backend Development:** REST APIs | Express | Flask | FastAPI | Object-Oriented Design | CI/CD (GitHub Actions)  
-**Machine Learning & AI:** TensorFlow | PyTorch | Scikit-learn | Neural Networks | Unsupervised Learning | Natural Language Processing (NLP)  
-**Data Science & Research:** Data Analysis | Statistical Modeling | Pandas | NumPy | Jupyter Notebook | Data Visualization (Matplotlib, Plotly)  
-**Design & Development:** Figma | Adobe XD | Sketch | InVision | A/B Testing | User Research | UX/UI Design | Design Systems | Accessibility Standards  
-**Project Management:** Agile | Scrum | Jira | Confluence  
-**Tools & Technologies:** Docker | Git | AWS (EC2/S3) | Google Cloud | Linux | Slurm | MongoDB | Firebase | SQL (Postgres/MySQL)
-
+**Languages:** Java | Go | TypeScript | Python | C++ | JavaScript | SQL | HTML/CSS  
+**Backend & APIs:** RESTful API Design | Express.js | Flask | FastAPI | Node.js | GraphQL | Microservices  
+**Frontend:** React | Redux | Next.js | Server-Side Rendering | Responsive Design  
+**Machine Learning & AI:** TensorFlow | PyTorch | Scikit-learn | NetworkX | Unsupervised Learning | Deep Learning | Neural Networks  
+**Data Science:** Pandas | NumPy | Matplotlib | Plotly | Data Pipelines | Statistical Analysis  
+**Databases:** PostgreSQL | MySQL | NoSQL | Cassandra | Elasticsearch | Spark  
+**Cloud & DevOps:** AWS (EC2, S3) | Docker | CI/CD (GitHub Actions) | Linux | Slurm | Cloud Architecture  
+**Design & UX:** Figma | Adobe XD | User Research | Accessibility Standards (WCAG/ADA) | Usability Testing  
+**Development Tools:** Git/GitHub | Gradle | Jira | Confluence | Agile/Scrum | Test-Driven Development
 
 <p align="center" style="margin-top: -10px;">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a0dad,100:1e3c72&height=1"/>
@@ -92,12 +100,13 @@ I'm a **Fullstack Developer** with a background in **Computer Science and Cognit
 
 <!-- CONNECT WITH ME -->
 <h2 align="left" style="font-size: 24px;">
-  <strong>📌 Let’s Connect!</strong>
+  <strong>📌 Let's Connect!</strong>
 </h2>
 
-📩 **Email:** [chhavi09nayyar@gmail.com](mailto:chhav09nayyar@gmail.com)  
+📩 **Email:** [chhavi09nayyar@gmail.com](mailto:chhavi09nayyar@gmail.com)  
 🌐 **Portfolio:** [cnayyar.com](http://cnayyar.com)  
-🐙 **GitHub:** [github.com/chhaviiiii](https://github.com/chhaviiiii)
+🐙 **GitHub:** [github.com/chhaviiiii](https://github.com/chhaviiiii)  
+💼 **LinkedIn:** [linkedin.com/in/cnayyar](https://linkedin.com/in/cnayyar)
 
 <p align="center" style="margin-bottom: 20px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:1e3c72&height=90&section=footer"/>
